@@ -1,4 +1,4 @@
-<h4 align="center"> Hi 👋 there, I'm <a href="https://www.youtube.com/channel/UCT83S7LZnpBzhzxGZXWmOxA/featured">Rayzaqi Chairiz Khalif</a></h4>
+<h4 align="center"> Hi 👋 Aku <a href="https://www.youtube.com/channel/UCT83S7LZnpBzhzxGZXWmOxA/featured">Rayzaqi Chairiz Khalif</a></h4>
 
 <p align="center">
   <samp>
