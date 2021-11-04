@@ -20,6 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sikqqq" alt="Sikqqq" /> 
 </p>
 
+align="center"
 src="https://cardivo.vercel.app/api?name=Sikqqq&description=Hi,%20i%27m%20Zaqi%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Sikqqq&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@uidoajwn&github=Sikqqq&pattern=ticTacToe&colorPattern=%23eaeaea&site="/></a>
 </p>
 <p align='center'>
