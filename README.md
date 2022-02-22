@@ -1,9 +1,9 @@
-```js
+```cpp
 import Developer from 'xsikq';
 
 class About Me {
   nama = 'Rayzaqi Chairiz Khalif';
-  daerah = 'Jawa Timur, Malang';
+  daerah = 'Malang, Jawa Timur';
   keahlian = 'turu'
   }
 ```
