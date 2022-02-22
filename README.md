@@ -1,11 +1,11 @@
 ```cpp
-import Developer from 'xsikq';
-
-class About Me {
-  nama = 'Rayzaqi Chairiz Khalif';
-  daerah = 'Malang, Jawa Timur';
-  keahlian = 'turu'
-  }
+int main()
+{
+	printf("Halo, aku Rayzaqi Chairiz Khalif dan aku hanyalah programmer pemula.\n");
+	printf("Nice to meet you all:)");
+	getch();
+	return 0;
+}
 ```
 
 <p align="left">
